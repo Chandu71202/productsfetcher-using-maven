@@ -1,0 +1,5 @@
+com\eswar\product\bo\ProductBOimpl.class
+com\eswar\product\dto\Product.class
+com\eswar\product\dao\ProductDAOimpl.class
+com\eswar\product\dao\ProductDAO.class
+com\eswar\product\bo\ProductBO.class

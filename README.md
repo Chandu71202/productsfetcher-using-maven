@@ -17,7 +17,7 @@ This has the [product.html](https://github.com/Chandu71202/productsfetcher-using
 
 This has [CreateProductServlet.java](https://github.com/Chandu71202/productsfetcher-using-maven/blob/main/productweb/src/main/java/com/eswar/product/servelts/CreateProductServlett.java) gets the inputs from the user and creates an object of product using product class from productservices and saves it
 
-The [DisplayProductDetailServelt.java](https://github.com/Chandu71202/productsfetcher-using-maven/blob/main/productweb/src/main/java/com/eswar/product/servelts/DisplayProductDetailsServlet.java) displays the details fetching the id from [ProductBO.java](https://github.com/Chandu71202/productsfetcher-using-maven/blob/main/productservices/src/main/java/com/eswar/product/bo/ProductBO.java) and displays it
+The [DisplayProductDetailServlet.java](https://github.com/Chandu71202/productsfetcher-using-maven/blob/main/productweb/src/main/java/com/eswar/product/servelts/DisplayProductDetailsServlet.java) displays the details fetching the id from [ProductBO.java](https://github.com/Chandu71202/productsfetcher-using-maven/blob/main/productservices/src/main/java/com/eswar/product/bo/ProductBO.java) and displays it
 
 Server used here is Tomcat Server 9.01 version
 
